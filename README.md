@@ -10,6 +10,7 @@ This project simulates a magical arena where two players battle based on their a
    cd magical_arena
 
 2. **Compile the Java files and run the main class to start the game.**
+   ```bash
    javac com/magicalarena/*.java
    java com.magicalarena.Main
 
